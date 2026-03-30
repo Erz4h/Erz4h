@@ -17,11 +17,11 @@
 
 ### Links
 
-<p>
-  <a href="https://github.com/Erz4h">
+<p style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/Erz4h" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-Erz4h-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:33151761@gmail.com">
+  <a href="mailto:33151761@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-33151761%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
