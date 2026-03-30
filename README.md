@@ -18,8 +18,8 @@
 ### Links
 
 <p>
-  <a href="https://github.com/DerekFang">
-    <img src="https://img.shields.io/badge/GitHub-DerekFang-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Erz4h">
+    <img src="https://img.shields.io/badge/GitHub-Erz4h-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:33151761@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-33151761%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
